@@ -1,0 +1,6 @@
+VAR person1is = "gay"
+VAR person2is = "straight"
+PRINT(person1is)
+PRINT("is not cool")
+PRINT(person2is)
+PRINT("cool")
